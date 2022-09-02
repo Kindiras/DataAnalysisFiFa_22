@@ -1,2 +1,2 @@
-[FIFA22_official.ipynb](FIFA22_official.ipynb)
+[FIFA22_official.html](FIFA22_official.html)
 # DataAnalysisFiFa_22
